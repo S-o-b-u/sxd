@@ -15,8 +15,8 @@ h4all.forEach(function (elem) {
   });
   elem.addEventListener("mouseleave", function () {
     crsr.style.scale = 1;
-    crsr.style.border = "0px solid #2d5e87";
-    crsr.style.backgroundColor = "#2d5e87";
+    crsr.style.border = "0px solid #69ff8e";
+    crsr.style.backgroundColor = "#69ff8e";
   });
 });
 gsap.to("#nav", {
