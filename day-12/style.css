@@ -193,8 +193,8 @@ video {
   z-index: 10;
 }
 .card {
-  height: 55%;
-  width: 20%;
+  height: 60%;
+  width: 18%;
   background-size: cover;
   background-position: center;
   overflow: hidden;
